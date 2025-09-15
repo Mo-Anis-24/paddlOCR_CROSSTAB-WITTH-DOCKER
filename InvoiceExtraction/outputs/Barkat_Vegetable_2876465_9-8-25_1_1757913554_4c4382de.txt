@@ -1,0 +1,374 @@
+Barakat
+Dotorfiesh
+1101-SON-287465
+Invoice;
+09-Aug-2025
+TAX INVOICE
+Oue date
+30-Sp-2025
+Customer rele
+Route
+1015
+11018P105157
+Location id
+ADCOP
+TRN104311971600003
+30DAYS FROM END
+Total CO2 Save
+OF.MONTH
+Contad person
+0506408923
+Shipto
+1-AMADIORESTAURANT
+meirah Viiage Crcle
+DubaiUned Arab Emirates
+Ouba
+Taalnet
+Ruto
+Toll
+Unt
+Oty
+Price
+VAT
+Pot
+8.000
+5.76
+46.00
+0.00
+45.005%
+2.30
+.30
+100065
+Bast in Pot
+2.000
+38.00
+0.00
+52.005%
+250
+54.80
+Kg
+100588
+Mushroom Brown
+62.00
+Kg
+2.000
+16.50
+000
+33.005%
+1.65
+34.05
+Mushroom Buton Wh
+33.00
+3.000
+14.50
+0.00
+43.505%
+2.18
+46.88
+Tomato Plum/Ro
+Kg
+43.50
+5.000
+0.00
+20.005%
+1.00
+21.00
+Kg
+4.00
+20.00
+Lattuce Romaine
+3.000
+0.00
+14.255%
+0.71
+14.98
+Kg
+4.75
+14.35
+100494
+Lomor
+4.000
+0.00
+84.005%
+4.20
+88.20
+Tomato Chorry Rsd
+Kg
+21.00
+84.00
+100867
+0.00
+17.505%
+088
+18.38
+Tomato Green
+Kg
+0.500
+35.00
+17.50
+100877
+2.500
+9.00
+22.50
+0.00
+22.505%
+1.13
+23.83
+Garlc Paeled
+3.000
+0.00
+28.255%
+RECEIVE
+Butern Pumpin
+Kg
+8.75
+26.25
+100744
+1.000
+7.00
+7.00
+0.00
+7.005%
+Gnger
+Kg
+y
+100688
+0.00
+18.505%
+Kg
+1.000
+18.50
+18.50
+2100198
+Chlly Red Long
+BY.JONAAN
+0.500
+25.00
+12.50
+0.00
+12505%
+00504
+Lettuce Boston
+Kg
+0.200
+52.00
+10.40
+0.00
+10.405%
+0.52
+100782
+Sage Loose
+24.00
+0.00
+24005%
+1.20
+2020
+16100045
+Aypcado
+Kg
+2000
+12.00
+1.000
+5.50
+0.00
+5.505%
+0.29
+5.78
+100168
+Ceary Stick
+Kg
+5.50
+16
+3.00
+300
+0.00
+3.005%
+0.15
+3.15
+100152
+Kg
+1.000
+Carrot
+3.00
+9.00
+0.00
+9.005%
+0.45
+9.45
+Potato
+Kg
+3.000
+18
+100710
+448.90
+0.00
+448.90
+22.47
+471.37
+42.700
+Total net amount:
+448.90
+This is System Generatd Prit nd doas not requr signstr
+Page 1 of2
+Generated onc
+8Aug2025103935 Al AweerNad Al Hamar|Abu Dhabi|Sharjah
+04-3335666/04-2393333
+04-3335665/04-2393336
+PO.Box11286Dubai-U.A.E.
+ contoct@barokatuae.ae
+04-3335665/04-2393336
+www.barakatuge.ce
+alphamed
+TEL
+048105896
+FAX
+04-8849007
+(ALPHAMED GENERAL TRADING LLC)
+Emall
+VATTRN
+100005693500003
+.
+UAE
+Tax Invoice
+CN-DXB-3470161
+Document Date
+23-AUG-2025
+Bll To AMADIO RESTAURANT
+Ship To Bloom Heights-Jumeirah Village
+Transaction Type
+CN DXB VCT
+Circle
+LPONo
+AMADIO RESTAURANT
+Building-A Lazuward S W-Shop 3
+Building-A Lazuward S W-Shop 3
+Dubai
+SORef
+3921152
+Dubai
+ne0506408923FAX
+Sales Rep
+CON-Aneesh Kattissery
+Telephone:0506408923FAX
+Teleph
+DubaiP.O.Box:.
+Route/Area
+DXB21
+Customer Vat No
+104311971600003
+Account No
+Shipping Ins
+136811
+Payment Type
+Delivery timing 9am-12pm
+VAT
+VAT
+Unit
+Amt
+Total
+Value
+Disc
+Sub Total
+Rate
+S.No Item Code Description
+Uom
+Qty Price
+432.00
+5%
+21.60
+453.60
+FERRARELLE STILL STILL WATER-12X750ML
+72.00
+7.33
+527.76
+95.76
+FRL-002-0
+241 (24-SEP-2)72
+EA
+21.60
+453.60
+527.76
+95.76
+432.00
+Total
+72.00
+Account Details:
+Account Name
+Al Khayyat Investments LLC
+Branch
+Dubai
+Bank Name
+Emirates NBD
+IBAN NO
+AE0402600010 1448 1491 501
+Account No
+1014481491501
+DECEIVE
+Sces.hat.tte
+BY
+1.Goods once sold will not be replaced or exchanged.Please check all goods on delivery and affix company's stamp.
+2.Goods sold on Bonus/Special price will not be taken back.
+3.This bill must be settled within the agreed credit limit.
+.........
+Checked
+Prepared
+Store Keeper
+Date
+Signature
+Recipient Name
+Report Run Date 23-Aug-2025 02:46Hrs
+Report Published By :AKI_INV_PRNT
+Barakat
+Involce date
+03-Aug-2025
+Invoice;
+Due date
+30-S+p-2025
+TAX INVOICE
+Custoner reference
+Route
+1018
+Sales Order:
+1101BP105157
+Locationid
+ADCOP
+Invoice to
+C16631-AMADIRESTAURANT
+Terms of peyment
+30 CAYS FROM END
+OFMONTH
+TRN104311971600003
+Total CO2 Saved
+Contact person
+0506408923
+CO,-
+Ship to
+5.25 kg/CO2
+C16631-AMADIORESTAURANT
+TRN:104311971600003
+Total VAT
+22.47
+DubalUnited Arsb Emirates
+Dubal
+Total amount cue
+471.37
+Currency
+AED
+Approved by
+Acknowi
+Prepnradby
+We serve the'best o
+DECEIVED
+09AUG 2025
+-
+BY:ONATAN
+Paga212
+This is sSystem Generated Pnt nd does not requre signate
+Ganarated on
+04-3335665/04-2393336
+04-3335666/04-2393333
+P.O.Box11286Dubai-U.A.E.
+202
+04-3335665/04-2393336
+0contact@barakatuae.ae
+www.barakatuae.ae

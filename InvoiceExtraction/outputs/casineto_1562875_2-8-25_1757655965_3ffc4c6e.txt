@@ -1,0 +1,143 @@
+Casinetto
+TAX INVOICE
+Original
+Invoce Number1562875
+Ship To Contact
+SBD
+Involce Date:
+0528632305
+Bil To
+Amadio Restaurant
+02-Aug-202522:52:03
+o Restaurant,GF Bloom Heights
+Cirdle-JVC
+JVC
+Jumeirah Village Circle -JVC
+Area
+City:Dubal
+Guillaume Bonnin
+Your Contact
+TRN:
+Country:AE
+Email
+Customer No
+Your Reference:
+C02383
+C02383.010825
+Page:
+1/2
+Rate:1.00
+Currency:AED
+Cartont
+Unit Price
+Taxable Amount Vat % Tax Due
+Item
+Qty
+UOM
+Description
+91.465
+4.57
+CAPD010
+10.00
+1.000
+CRT
+91.46
+Semola Durum Wheat Caputo 1kg
+279.005
+13.95
+3.000
+PC
+93.00
+CASD041
+Pomace Olive Oil PET 3pc5L
+3.00
+185.85
+5
+9.29
+3.000
+PC
+61.95
+CASF003
+1.00
+Porcini Cubes 1kg
+156.45
+7.83
+CRT
+156.45
+5
+CNUF003
+1.00
+1.000
+Cannelloni Ricotta& Spinach 3kg
+100.805
+5.04
+2.000
+PC
+50.40
+EURC001
+Egg Yolk 1kg
+6.00
+1.00
+238.90
+5
+11.94
+2.880
+KG
+82.95
+PALC003
+Burratina Palazzo 120g in bag 720g
+321.30
+5
+16.06
+6.00
+6.000
+PC
+53.55
+ROBD046
+Artichokes Grilled Whole 750g
+11.75
+58.755
+2.94
+12.00
+5.000
+PC
+RUMD102
+Fusilli Rummo 1kg
+12.00
+CRT
+151.20
+151.20
+5
+7.56
+Penne Rigate Rummo 1kg
+1.000
+RUMD108
+KG
+42.53
+1,275.905
+63.80
+Fiordilatte Mozzarella Block 1kg
+1.00
+30.000
+VALC017
+0.700
+KG
+49.21
+1.72
+VALF017
+Fiordilatte Mozzarella Cherry 15g 700g
+1.00
+ECEIVE
+Frozen
+Note: This is
+eceverAU6 2025
+ated invoice.hence no sig
+ature is required
+Mobile No
+CASINETTO TRADING LLC
+T+971046025300
+TRN 100000669000003
+info@casi
+F+971043419260
+PO Box 125905.DubaiUAE
+www.casinetto.com

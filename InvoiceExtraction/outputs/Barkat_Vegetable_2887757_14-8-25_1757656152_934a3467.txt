@@ -1,0 +1,154 @@
+(..aglg j
+Barakat
+Involce date
+14-Aug-2025
+Invoice:
+30-Sep-2025
+1101-SOIN-2887757
+Due date
+TAX INVOICE
+Customer reference
+Route
+1018
+Sales Order
+Location id
+ADCOP
+Involce to
+1101BP105306
+Terms of payment
+30DAYS FROM END
+C16531-AMADIRESTAURANT
+OFMONTH
+TRN104311971600003
+Contact person
+0506408923
+Dubal,
+DubalUnited Arab Emirates
+CO
+Ship to
+1.64 kg/CO2
+C16631-AMADIORESTAURANT
+TRN104311971600003
+Dubal,
+Rate
+Tatalnet
+Total
+Total Amount
+DubalUnited Arab Emirates
+of
+VAT
+Incl VAT
+Price
+Total before
+Oty
+Discount
+amount
+Unit
+VAT
+Item
+Description
+discaunt
+52.005%
+2.60
+54.60
+No
+number
+0.00
+Kg
+2.000
+26.00
+52.00
+33.005%
+1.65
+34.65
+100586
+Mushroom Browm
+16.50
+0.00
+Kg
+2.000
+33.00
+10.92
+Mushroom Butlon White
+0.00
+10.405%
+0.52
+2/
+100591
+Kg
+0.200
+52.00
+10.40
+9.505%
+0.48
+9.98
+180780
+Rosamary Loose
+9.50
+0.00
+2
+Kg
+1.000
+9.50
+19.005%
+0.95
+19.95
+100918
+Zucchini Green
+4.75
+19.00
+0.00
+Kg
+4.000
+89.005%
+3.45
+72.45
+100494
+Lemon
+1.000
+69.00
+69.00
+0.00
+Box
+9.65
+202.55
+Cress Sakura Mix
+0.00
+192.90
+100255
+10.200
+192.90
+192.90
+Total net amount
+9.65
+Total VAT
+the best
+202.55
+Total amount due
+Currency.
+AED
+cerve
+Amount in wordsTwo Hundred Two and 55100
+Acknowledged by
+Approved by
+Name/Phone numberStamp
+Prepared by
+1.Customer Signature contsms acceptance of the abore goods delered.
+DECEIVE
+2.No Claims will be enterained for shontage/damage once the goods are accepted by customers.
+1AUG 2025
+BY.JONATMIAN
+Page 1 01
+This is a System Genarated Print and does not require signature
+13-Aug-202509:1158 Al Aweer|Nad Al Hamar|Abu Dhabi|Sharjah
+Generated on
+354713
+04-3335665/04-2393336
+04-3335666/04-2393333
+P.O.Box11286Dubai-U.A.E.
+0
+04-3335665/04-2393336
+X
+contact@barakatuae.ae
+2025
+www.barakatuae.ae
